@@ -49,7 +49,7 @@ Within a team of 7 students we have built a game of the type city-builder like s
   <a href="https://julialang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/> </a> 
   <a href="https://www.latex-project.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="latex" width="40" height="40"/> </a> 
   <a href="https://www.adacore.com/about-ada" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ada_horizon_green_logo_with_slogan.svg/131px-Ada_horizon_green_logo_with_slogan.svg.png" alt="ada" width="40" height="40"/> </a>
-  <a href="https://lamport.azurewebsites.net/tla/tla.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/6/63/TLA%2B_logo_splash_image.png" alt="TLA+" width="40" height="40"/>
+  <a href="https://lamport.azurewebsites.net/tla/tla.html" target="_blank" rel="noreferrer"> <img src="TLA+_logo_splash_image.png" alt="TLA+" width="40" height="40"/>
 <a href="http://www.gprolog.org" target="_blank" rel="noreferrer"> <img src="http://www.gprolog.org/gprolog.png" alt="gprolog" width="40" height="40"/>
 
 <!--    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>-->
@@ -63,7 +63,7 @@ Within a team of 7 students we have built a game of the type city-builder like s
   <a href="https://www.microsoft.com/fr-fr/software-download/windows11" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" alt="windows11" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/fr-fr/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="microsoft365" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/fr-fr/microsoft-365/microsoft-office" target="_blank" rel="noreferrer"> <img src="microsoft365.jpg" alt="microsoft365" width="40" height="40"/> </a> 
   <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://projects.laas.fr/tina/index.php" target="_blank" rel="noreferrer"> <img src="https://projects.laas.fr/tina/images/tina.png" alt="Tina" width="40" height="40" /> </a>
