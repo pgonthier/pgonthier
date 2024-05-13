@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Priscilia Gonthier !</h1>
-<h4 align="center">I'm a student in second year (M1) at ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Digital Sciences</h4>
+<h4 align="center">I'm a student at ENSEEIHT (École National Supérieure d’Électrotechnique, d’Électronique, d’Informatique, d’Hydraulique et de Télécommunications) in Digital Sciences</h4>
 
+<!--
 <h3 align="left">My projects at ENSEEIHT:</h3>
 <details>
 <summary>City Builder</summary>
@@ -29,6 +30,7 @@ Within a team of 7 students we have built a game of the type city-builder like s
   <br/>
   You can find the source code here.
 </details>
+-->
 
 
 <h3 align="left">Connect with me:</h3>
